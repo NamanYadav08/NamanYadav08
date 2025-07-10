@@ -9,7 +9,7 @@
   <em>👨‍💻 A passionate <strong>Full-Stack Developer</strong> from India | Building scalable web applications and learning continuously</em>
 </h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200px" alt="typing animation" />
+  <img src="https://c.tenor.com/I6kN-6X7nhAAAAAj/typing.gif" width="200px" alt="typing animation" />
 </p>
 <img  align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCK4life1jApvNE36wkiOZhwWqyUsARhELvA&s">
 
