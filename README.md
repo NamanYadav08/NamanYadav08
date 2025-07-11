@@ -1,30 +1,22 @@
-<p align="center">
-  <img src="https://i.ibb.co/3mFqZqv/3d-avatar.png" alt="3D Avatar" width="300" height="300" style="border-radius: 50%; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
-</p>
-
+<img align="center" alt="profession" width="900" height="200" src="assets/profile first image.png">
 <h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-shadow: 2px 2px 4px #000000;">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="waving hand" />, I'm Milind Yadav
 </h1>
-<h3 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #555;">
-  <em>👨‍💻 A passionate <strong>Full-Stack Developer</strong> from India | Building scalable web applications and learning continuously</em>
-</h3>
-<p align="center">
-  <img src="https://c.tenor.com/I6kN-6X7nhAAAAAj/typing.gif" width="200px" alt="typing animation" />
-</p>
+<h3 align="center">A passionate frontend developer from India</h3>
+<br>
 <img  align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCK4life1jApvNE36wkiOZhwWqyUsARhELvA&s">
 
-- 🔭 I’m currently working on **Booking System**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Backend**
 
 - 💬 Ask me about **Frontend Development**
 
 - 📫 How to reach me **milindcs07@gmail.com**
 
-<h3 align="left">🤝 Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/milind-yadav" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30&logoHeight=30&shadow=1" alt="LinkedIn" /></a>
-<a href="https://instagram.com/milind_yadav_07" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=30&logoHeight=30&shadow=1" alt="Instagram" /></a>
+<a href="https://linkedin.com/in/milind yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="milind yadav" height="30" width="40" /></a>
+<a href="https://instagram.com/milind_yadav_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="milind_yadav_07" height="30" width="40" /></a>
 </p>
 
 <br>
