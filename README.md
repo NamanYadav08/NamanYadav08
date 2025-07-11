@@ -70,7 +70,7 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=milind-yadav07&show_icons=true&locale=en&layout=compact" alt="milind-yadav07" /></p>
+<p><img align="left" style="#000000" src="https://github-readme-stats.vercel.app/api/top-langs?username=milind-yadav07&show_icons=true&locale=en&layout=compact" alt="milind-yadav07" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milind-yadav07&show_icons=true&locale=en" alt="milind-yadav07" /></p>
 
