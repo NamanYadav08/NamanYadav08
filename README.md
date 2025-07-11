@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&shadow=1" alt="Instagram" />
   </a>
 <a href="#" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/M%7CY-000000?style=flat&logoColor=white&shadow=1&fontSize=100" alt="M|Y" />
+    <img src="https://img.shields.io/badge/M%7CY-000000?style=flat&logoColor=white&shadow=1&fontSize=20" alt="M|Y" style="transform: scale(1.5); transform-origin: left center;" />
   </a>
 </p>
 
