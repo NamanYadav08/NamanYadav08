@@ -10,7 +10,7 @@
 
 <br>
 
-<img align="right" alt="man doing web coding animation" width="400" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" />
+<img align="right" alt="man doing web coding animation" width="400" src="https://tenor.com/view/programmer-rounded-edges-gif-26214286" />
 
 
 - 🌱 I’m currently learning <b>Backend</b>
@@ -32,6 +32,10 @@
   </a>
 
 <br>
+<br>
+<br>
+<br>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -65,8 +69,12 @@
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white&shadow=1" alt="SASS" /></a>
 </p>
 
+<br>
+<br>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=milind-yadav07&show_icons=true&locale=en&layout=compact" alt="milind-yadav07" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milind-yadav07&show_icons=true&locale=en" alt="milind-yadav07" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milind-yadav07&" alt="milind-yadav07" /></p>
+></p>
