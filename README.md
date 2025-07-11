@@ -31,9 +31,6 @@
   </a>
 
 <br>
-<br>
-<br>
-<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -52,7 +49,7 @@
 <h3 align="left">Technology:</h3>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&shadow=1" alt="Bootstrap" /></a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&shadow=1" alt="Django" /></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&shadow=1" alt="Flask" /></a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&shadow=1" alt="Express" /></a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&shadow=1" alt="Firebase" /></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&shadow=1" alt="MongoDB" /></a>
@@ -66,9 +63,6 @@
   <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white&shadow=1" alt="Framer Motion" /></a>
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white&shadow=1" alt="SASS" /></a>
 </p>
-
-<br>
-<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=milind-yadav07&show_icons=true&locale=en&layout=compact" alt="milind-yadav07" /></p>
 
