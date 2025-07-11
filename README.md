@@ -18,11 +18,6 @@
 <a href="https://linkedin.com/in/milind yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="milind yadav" height="30" width="40" /></a>
 <a href="https://instagram.com/milind_yadav_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="milind_yadav_07" height="30" width="40" /></a>
 </p>
-<a href="https://milindpersonal-3dportfolio.netlify.app/" target="_blank" rel="noopener noreferrer">
-  <div style="background-color: black; color: white; width: 40px; height: 30px; display: flex; align-items: center; justify-content: center; cursor: pointer;">
-    M|Y
-  </div>
-</a>
 
 <br>
 <br>
