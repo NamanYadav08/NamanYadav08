@@ -31,6 +31,10 @@
   </a>
 
 <br>
+<br>
+<br>
+<br>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -63,6 +67,9 @@
   <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white&shadow=1" alt="Framer Motion" /></a>
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white&shadow=1" alt="SASS" /></a>
 </p>
+
+<br>
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=milind-yadav07&show_icons=true&locale=en&layout=compact" alt="milind-yadav07" /></p>
 
