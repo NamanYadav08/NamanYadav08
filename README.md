@@ -11,7 +11,7 @@
 <br>
 
 <!-- <img align="right" alt="man doing web coding animation" width="400" src="" /> -->
-<img align="right" alt="Coder GIF" height=300 width=400 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
+<img align="right" alt="Coder GIF" height=300 width=400 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 
 - 🌱 I’m currently learning <b>Backend</b>
 
@@ -75,3 +75,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milind-yadav07&show_icons=true&locale=en" alt="milind-yadav07" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milind-yadav07&" alt="milind-yadav07" /></p>
+
