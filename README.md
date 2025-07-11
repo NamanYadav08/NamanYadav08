@@ -20,6 +20,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&shadow=1" alt="AWS" />
+    </a>
   <a href="https://linkedin.com/in/milind yadav" target="_blank" rel="noreferrer" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&shadow=1" alt="LinkedIn" />
   </a>
