@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&shadow=1" alt="Instagram" />
   </a>
   <a href="#" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/MILIND-000000?style=for-the-badge&logoColor=white&shadow=1&fontSize=36" alt="MILIND" />
+    <img src="https://img.shields.io/badge/MILIND-000000?style=for-the-badge&logoColor=white&shadow=1&fontSize=1006" alt="MILIND" />
   </a>
 <!-- <a href="#" target="_blank" rel="noreferrer" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/MILIND-000000?style=for-the-badge&logoColor=white&shadow=1" alt="MILIND" />
