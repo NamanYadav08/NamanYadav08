@@ -3,25 +3,34 @@
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="waving hand" />, I'm Milind Yadav
 </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<br>
-<img  align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCK4life1jApvNE36wkiOZhwWqyUsARhELvA&s">
 
-
-- 🌱 I’m currently learning **Backend**
-
-- 💬 Ask me about **Frontend Development**
-
-- 📫 How to reach me **milindcs07@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/milind yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="milind yadav" height="30" width="40" /></a>
-<a href="https://instagram.com/milind_yadav_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="milind_yadav_07" height="30" width="40" /></a>
+<p align="center" style="font-size: 18px; max-width: 700px; margin: auto; color: #555;">
+  I specialize in creating beautiful and performant web applications with a focus on frontend development. Currently expanding my skills into backend technologies to become a full-stack developer.
 </p>
 
 <br>
+
+<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCK4life1jApvNE36wkiOZhwWqyUsARhELvA&s">
+
+- 🌱 I’m currently learning <b>Backend</b>
+
+- 💬 Ask me about <b>Frontend Development</b>
+
+- 📫 How to reach me <b>milindcs07@gmail.com</b>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/milind yadav" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&shadow=1" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/milind_yadav_07" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&shadow=1" alt="Instagram" />
+  </a>
+</p>
+
 <br>
-<h3 align="left">Languages and Tools:</h3>
+
+<h3 align="left">Skills & Tools:</h3>
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&shadow=1" alt="Angular" /></a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&shadow=1" alt="AWS" /></a>
@@ -50,8 +59,22 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&shadow=1" alt="Tailwind CSS" /></a>
 </p>
 
+<h3 align="left">Projects:</h3>
+<ul>
+  <li><b>Project 1:</b> <a href="#" target="_blank" rel="noreferrer">Project One - Description or link</a></li>
+  <li><b>Project 2:</b> <a href="#" target="_blank" rel="noreferrer">Project Two - Description or link</a></li>
+  <li><b>Project 3:</b> <a href="#" target="_blank" rel="noreferrer">Project Three - Description or link</a></li>
+</ul>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=milind-yadav07&show_icons=true&locale=en&layout=compact" alt="milind-yadav07" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milind-yadav07&show_icons=true&locale=en" alt="milind-yadav07" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milind-yadav07&" alt="milind-yadav07" /></p>
+
+<h3 align="left">Get in touch:</h3>
+<p>
+  📧 <a href="mailto:milindcs07@gmail.com" target="_blank" rel="noreferrer">milindcs07@gmail.com</a><br>
+  🔗 <a href="https://linkedin.com/in/milind yadav" target="_blank" rel="noreferrer">LinkedIn</a> | 
+  <a href="https://instagram.com/milind_yadav_07" target="_blank" rel="noreferrer">Instagram</a>
+</p>
