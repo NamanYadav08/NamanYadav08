@@ -11,7 +11,7 @@
 <br>
 
 <!-- <img align="right" alt="man doing web coding animation" width="400" src="" /> -->
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<img align="right" alt="Coder GIF" height=300 width=400 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 - 🌱 I’m currently learning <b>Backend</b>
 
