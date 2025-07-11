@@ -10,7 +10,8 @@
 
 <br>
 
-<img align="right" alt="man doing web coding animation" width="400" src="https://tenor.com/view/programmer-rounded-edges-gif-26214286" />
+<!-- <img align="right" alt="man doing web coding animation" width="400" src="" /> -->
+<div class="tenor-gif-embed" data-postid="2461104302247665708" data-share-method="host" data-aspect-ratio="1.33155" data-width="100%"><a href="https://tenor.com/view/developer-gif-2461104302247665708">Developer GIF</a>from <a href="https://tenor.com/search/developer-gifs">Developer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 - 🌱 I’m currently learning <b>Backend</b>
@@ -70,11 +71,9 @@
 </p>
 
 <br>
-<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=milind-yadav07&show_icons=true&locale=en&layout=compact" alt="milind-yadav07" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milind-yadav07&show_icons=true&locale=en" alt="milind-yadav07" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milind-yadav07&" alt="milind-yadav07" /></p>
-></p>
