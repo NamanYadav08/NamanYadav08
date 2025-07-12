@@ -1,4 +1,3 @@
-<img align="center" alt="profession" width="900" height="200" src="assets/profile first image.png">
 <h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-shadow: 2px 2px 4px #000000;">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="waving hand" />, I'm Milind Yadav
 </h1>
@@ -68,10 +67,3 @@
   <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white&shadow=1" alt="Framer Motion" /></a>
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white&shadow=1" alt="SASS" /></a>
 </p>
-
-
-<p><img align="left" style="#000000" src="https://github-readme-stats.vercel.app/api/top-langs?username=milind-yadav07&show_icons=true&locale=en&layout=compact" alt="milind-yadav07" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milind-yadav07&show_icons=true&locale=en" alt="milind-yadav07" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milind-yadav07&" alt="milind-yadav07" /></p>
