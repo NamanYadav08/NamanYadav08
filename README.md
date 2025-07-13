@@ -11,7 +11,7 @@
 
 <img align="right" alt="man doing web coding animation" width="400" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171827_GwbDHEuhisbGFXRfIpXFhtf7wAvsbLut.jpg" /> 
 
-- 🌱 I’m currently learning <b>frontend</b>
+- 🌱 I’m currently learning <b>Designing</b>
 
 - 💬 Ask me about <b>HTML/CSS</b>
 
