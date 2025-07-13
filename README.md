@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning <b>frontend</b>
 
-- 💬 Ask me about <b>Frontend Development</b>
+- 💬 Ask me about <b>HTML/CSS</b>
 
 - 📫 How to reach me <b>naman77@gmail.com</b>
 
